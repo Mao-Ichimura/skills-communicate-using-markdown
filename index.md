@@ -3,7 +3,11 @@
 ### ccc
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+「」
+$ git初期化
+/Users/skills/Projects/recipe-repository/.git/ にある空の Git リポジトリを初期化しました
+「」
 
-var myVar = "Hello, world!";
+``` JavaScript
+var myVar = "こんにちは、世界!";
+「」
